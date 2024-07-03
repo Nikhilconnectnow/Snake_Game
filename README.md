@@ -1,6 +1,7 @@
 # Snake Game
 
-![Snake Game Demo](demo.gif)
+![Snake Game Demo]![Screenshot 2024-06-30 175019](https://github.com/Nikhilconnectnow/Snake_Game/assets/171763911/de96cb07-89da-4ef9-bffd-8d1ad86a755c)
+
 
 This is a classic Snake Game implemented in Python using the Turtle graphics library. The game allows players to control a snake on a grid, eating food pellets to grow longer. The objective is to avoid colliding with walls or the snake's own tail.
 
